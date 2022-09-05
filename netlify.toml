@@ -1,5 +1,5 @@
 [build]
 base = "."
-command = "npm run build"
+CI = npm run build
 publish = "./build/"
 
